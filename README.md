@@ -7,7 +7,7 @@
 - 📫 How to reach me: Email is my preferred method! danielle.mathey@yahoo.com
 - 😄 Pronouns: she/her/hers
 
-<h2>🤩 What I have learned/practiced/utilized at BloomTech:</h2> 
+<h2>🤩 What I have learned/practiced/utilized:</h2> 
     <h3>Communication:</h3>
         <p>
           <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="zoom badge"/>
